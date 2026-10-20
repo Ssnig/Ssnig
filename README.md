@@ -1,42 +1,163 @@
-# 💫 About Me:
-An EDM Producer chasing the dream of Software Producer
+<div align="center">
 
+  <!-- Futuristic Cyberpunk Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_bg=0:0d1117,30:1a1b27,70:7928ca,100:00f5ff&height=220&section=header&text=Kyaw%20San%20Htun&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" alt="Kyaw San Htun Banner" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/973798883392122961) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1AqD3G23fa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kyaw-san-htun-123185292/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/LionDismal8813) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/randomburmesedude) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sicksounds404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyawsanh402@gmail.com) 
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/Ssnig">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Software+Engineering+Student+%40+UTYCC+%F0%9F%8E%93;EDM+Producer+chasing+the+Software+Dream+%F0%9F%8E%A7;Passionate+Full-Stack+%26+Systems+Builder+%E2%9A%A1;Crafting+Scalable+%26+Modern+Software+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ssnig&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ssnig&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ssnig&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  <!-- Quick Info Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-00F5FF?style=flat-square&logo=visualstudiocode&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%26%20Producer-BF00FF?style=flat-square&logo=target&logoColor=white" alt="Role" />
+    <img src="https://img.shields.io/badge/University-UTYCC-FF0080?style=flat-square&logo=googleclassroom&logoColor=white" alt="University" />
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ssnig&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ssnig&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
 
-<!--
-**Ssnig/Ssnig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Kyaw San Htun
+handle: Ssnig
+status: Software Engineering Student @ UTYCC
+passions: [Full-Stack Engineering, Distributed Systems, Music & EDM Production]
+motto: "An EDM Producer chasing the dream of Software Engineering."
+current_focus: Building modern web applications, algorithms & software tooling
+```
 
-Here are some ideas to get you started:
+- 🎓 **Education:** Studying Software Engineering at **UTYCC** (University of Technology Yatanarpon Cyber City)
+- 🎧 **Creativity & Tech:** Blending sound design and electronic music production with software architecture
+- 🔭 **Currently Working On:** Full-stack systems, modular tools, and web applications
+- 🌱 **Learning & Exploring:** Cloud infrastructure, microservices, and system performance
+- 💬 **Ask Me About:** JavaScript, Python, React, Node.js, C++, and music tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### 💻 Languages & Core
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+#### 🌐 Frameworks & Full-Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" alt="Frameworks" />
+  </a>
+</p>
+
+#### 🧰 Databases, Platforms & Tooling
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb,postman,vscode,vercel&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics & Performance
+
+<div align="center">
+
+  <!-- GitHub Stats & Top Languages -->
+  <p align="center">
+    <a href="https://github.com/Ssnig">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ssnig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6&rank_icon=github" height="175" alt="Kyaw San Htun's GitHub Stats" />
+    </a>
+    <a href="https://github.com/Ssnig">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=A9B1D6" height="175" alt="Top Languages" />
+    </a>
+  </p>
+
+  <!-- GitHub Streak Stats -->
+  <p align="center">
+    <a href="https://github.com/Ssnig">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssnig&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <!-- Featured Projects -->
+  <br/>
+  <h3 align="center">🚀 Featured Repositories</h3>
+  <p align="center">
+    <a href="https://github.com/Ssnig/CyberDECK_OS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssnig&repo=CyberDECK_OS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6" alt="CyberDECK_OS" />
+    </a>
+    <a href="https://github.com/Ssnig/FoodLoop">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssnig&repo=FoodLoop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6" alt="FoodLoop" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ssnig/Ssnig/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ssnig/Ssnig/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Ssnig/Ssnig/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+
+  <p><sub><i>(Automated via GitHub Actions • Snake eats daily contributions)</i></sub></p>
+
+</div>
+
+---
+
+### 💬 Random Developer Vibe
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0D1117&textColor=00F5FF&qColor=FF0080" alt="Dev Joke" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/Ssnig" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kyaw-san-htun-123185292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kyawsanh402@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.gg/973798883392122961" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://youtube.com/@sicksounds404" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/share/1AqD3G23fa/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Glowing Wavy Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_bg=0:7928ca,50:00f5ff,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+</div>
