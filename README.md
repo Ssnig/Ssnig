@@ -76,10 +76,10 @@ current_focus: Building modern web applications, algorithms & software tooling
   <!-- GitHub Stats & Top Languages -->
   <p align="center">
     <a href="https://github.com/Ssnig">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ssnig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6&rank_icon=github" height="175" alt="Kyaw San Htun's GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Ssnig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6&rank_icon=github" height="175" alt="Kyaw San Htun's GitHub Stats" />
     </a>
     <a href="https://github.com/Ssnig">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=A9B1D6" height="175" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ssnig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=A9B1D6" height="175" alt="Top Languages" />
     </a>
   </p>
 
@@ -95,10 +95,10 @@ current_focus: Building modern web applications, algorithms & software tooling
   <h3 align="center">🚀 Featured Repositories</h3>
   <p align="center">
     <a href="https://github.com/Ssnig/CyberDECK_OS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssnig&repo=CyberDECK_OS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6" alt="CyberDECK_OS" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ssnig&repo=CyberDECK_OS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6" alt="CyberDECK_OS" />
     </a>
     <a href="https://github.com/Ssnig/FoodLoop">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssnig&repo=FoodLoop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6" alt="FoodLoop" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ssnig&repo=FoodLoop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=A9B1D6" alt="FoodLoop" />
     </a>
   </p>
 
